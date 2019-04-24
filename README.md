@@ -2,7 +2,7 @@
 > a simple TTS bot for twitch.tv
 
 ## Usage
-- [Download](https://google.de)
+- [Download](https://github.com/hiimkoin/sttsbot/releases/tag/0.0.1)
 - edit config.json
   - username: your twitch username
   - password: copy and paste token from https://twitchapps.com/tmi/
