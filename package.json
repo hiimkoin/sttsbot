@@ -1,0 +1,16 @@
+{
+  "name": "twitchbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "keywords": [],
+  "author": "koin",
+  "license": "MIT",
+  "dependencies": {
+    "say": "^0.15.0",
+    "tmi.js": "^1.4.2"
+  }
+}

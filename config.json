@@ -1,0 +1,9 @@
+{
+  "identity": {
+    "username": "username",
+    "password": "oauth:pw"
+  },
+  "channels": [
+    "#username"
+  ]
+}
